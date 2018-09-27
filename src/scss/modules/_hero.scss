@@ -1,0 +1,8 @@
+.header-bg {
+  background: linear-gradient(rgba(0, 0, 0, 0.87), rgba(0, 0, 0, 0.87)),
+    url('../img/bg.jpg') no-repeat center center;
+  background-size: cover;
+  height: calc(100vh - 40px);
+  width: 100%;
+  position: relative;
+}

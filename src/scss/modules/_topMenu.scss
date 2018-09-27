@@ -1,0 +1,25 @@
+.top-header {
+  font-family: 'Montserrat', sans-serif;
+  height: 40px;
+  background-color: #191919;
+  .material-icons {
+    vertical-align: -4px;
+    margin-right: 6px;
+    font-size: 18px;
+  }
+  ul {
+    line-height: 40px;
+    padding: 0;
+  }
+  a {
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 13px;
+    font-weight: 400;
+    margin-left: 6px;
+    padding: 0px 7px;
+    &:hover {
+      color: rgba(255, 255, 255, 0.9);
+      text-decoration: none;
+    }
+  }
+}

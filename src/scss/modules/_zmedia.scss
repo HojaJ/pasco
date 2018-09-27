@@ -1,0 +1,82 @@
+// Small devices (landscape phones, 576px and down)
+@media (max-width: 576px) {
+  .display-5 {
+    font-size: 1.4rem;
+  }
+  .width-70 {
+    width: 100%;
+    float: none;
+  }
+  .custom-mt {
+    margin-top: 5rem;
+  }
+  .width-youtube {
+    max-width: 100%;
+  }
+  .mt-sm-3 {
+    margin-top: 1rem;
+    width: 100%;
+    margin-left: 0 !important;
+  }
+  .w-sm-100 {
+    width: 100%;
+  }
+  .py-sm-1 {
+    padding: 30px 0px !important;
+  }
+}
+// Small devices (landscape phones, 576px and down)
+@media (min-width: 576px) {
+  .display-5 {
+    font-size: 1.2rem;
+  }
+  .width-70 {
+    width: 100%;
+    float: none;
+  }
+  .custom-mt {
+    margin-top: 5rem;
+  }
+  .width-youtube {
+    max-width: 100%;
+  }
+}
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) {
+  .display-5 {
+    font-size: 1.5rem;
+  }
+  .jumbotron {
+    padding-top: -20px;
+  }
+  .width-70 {
+    width: 100%;
+    float: none;
+  }
+  .width-youtube {
+    max-width: 40%;
+  }
+}
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) {
+  .display-5 {
+    font-size: 2rem;
+  }
+  .custom-mt {
+    margin-top: 0rem;
+  }
+  .width-70 {
+    width: 70%;
+  }
+  .width-youtube {
+    max-width: 41%;
+  }
+}
+
+// Extra large devices (large desktops, 1200px and up)
+// @media (max-width: 1199.98px) {
+//   .display-5 {
+//     font-size: 2.5rem;
+//   }
+// }

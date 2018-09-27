@@ -1,0 +1,61 @@
+.btn-main {
+  border-radius: 22px;
+  background-color: #303f9f;
+  box-shadow: 0px 17px 24px 0px rgba(48, 63, 159, 0.2);
+  width: 175px;
+  height: 45px;
+  font-size: 1.3rem;
+  line-height: 35px;
+}
+.btn-rounded {
+  border-radius: 22px;
+}
+.btn__red {
+  background-color: #ff4081;
+  border-color: #ff4081;
+  box-shadow: 0px 2px 13px 0px rgba(0, 0, 0, 0.12);
+}
+.rounded-social {
+  line-height: 38px;
+  text-align: center;
+  display: block;
+  border-radius: 50%;
+  width: 36px;
+  height: 36px;
+}
+.subs-input {
+  border-radius: 22px;
+  background-color: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  width: 268px;
+  height: 43px;
+  &:focus {
+    background-color: transparent;
+  }
+}
+.facebook-color {
+  background-color: #3b5999;
+}
+.twitter-color {
+  background-color: #55acee;
+}
+.vk-color {
+  background-color: #4c75a3;
+}
+.pin-color {
+  background-color: #ff2e56;
+}
+.tribler-color {
+  background-color: #34465d;
+}
+.insta-color {
+  background-color: #4c68d7;
+}
+.twitter {
+  color: #55acee;
+  font-size: 24px;
+}
+.w-220 {
+  width: 220px;
+  height: 40px;
+}
